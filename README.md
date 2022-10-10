@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: October 11 - 13, 2022
+- Facilitator: @abhi-dutta
 
 ## Class Resources
 
